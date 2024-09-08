@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game development**
 
-- 👨‍💻 All of my projects are available at [https://peaceadeniji.vercel.app](https://peaceadeniji.vercel.app)
+- 👨‍💻 All of my projects are available at [https://peaseadeniji.vercel.app](https://peaseadeniji.vercel.app)
 
 - 💬 Ask me about **Anything mobile!**
 
